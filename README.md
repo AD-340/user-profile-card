@@ -1,15 +1,27 @@
-# Getting Started with Create React App
+# User Profile Card (React JSX Conversion)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project demonstrates the conversion of a simple HTML user profile card into JSX, which is used in React components. It serves as an exercise to understand JSX syntax, React component structure, and the use of props to dynamically render data.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Functional React component (`UserProfile`)
+- JSX syntax with best practices (e.g., `className`, self-closing tags)
+- Props used to pass dynamic data (name, email, photo)
+- Clean folder structure with a `components` directory
+
+## How to Run
+
+1. Clone the repository or download the project folder
+2. Install dependencies:
+
+### npm install
+
+3. Start the development server:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Runs the app in the development mode.\
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Learn More
 
